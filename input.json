@@ -1,0 +1,14 @@
+{
+  "startUrls": [
+    {
+      "url": "https://adstransparency.google.com/advertiser/AR08888592736429539329?authuser=0&region=CH&preset-date=Last+30+days"
+    }
+  ],
+  "resultsLimit": 10,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}
